@@ -1,6 +1,4 @@
-# notes-app-in-node.js
-
-## My first app in node.js.
+# My first app in node.js.
 ### You can add, remove, list all notes and read only one note.
 
 - To add new node run the following command: node app.js add --title="note5" --body="blabla". 
